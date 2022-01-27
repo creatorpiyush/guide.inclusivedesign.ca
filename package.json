@@ -7,7 +7,7 @@
   "homepage": "http://www.fluidproject.org/",
   "dependencies": {
     "docpad-plugin-ghpages": "~2.4.4",
-    "docpad-plugin-handlebars": "~2.3.0",
+    "docpad-plugin-handlebars": "~2.9.0",
     "docpad-plugin-highlightjs": "~2.3.0",
     "docpad-plugin-marked": "~2.3.0",
     "docpad-plugin-redirector": "~2.0.1",
